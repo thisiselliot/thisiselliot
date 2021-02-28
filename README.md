@@ -17,6 +17,16 @@ A classification project predicting hospital readmission for diabetes patients.
 Linear regression modelling.
 
 
+## How to get in touch: :mailbox:
+<p>
+  <a href="https://www.linkedin.com/in/elliot-macy/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+  <a href="https://elimacy.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
+  <a href="https://twitter.com/EliMacy/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="30" width="30" /></a>
+</p>
+
+<br>
+<br>
+
 ## I am skilled at: :star:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" align="left" width="30" height="30"/>
@@ -36,27 +46,3 @@ Linear regression modelling.
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" alt="r" align="left" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="tableau" align="left" width="30" height="30"/>
 </p>
-
-<br>
-<br>
-
-## How to get in touch: :mailbox:
-<p>
-  <a href="https://www.linkedin.com/in/elliot-macy/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
-  <a href="https://elimacy.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
-  <a href="https://twitter.com/EliMacy/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="30" width="30" /></a>
-</p>
-<!--
-**thisiselliot/thisiselliot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

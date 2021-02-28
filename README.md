@@ -26,13 +26,13 @@ Linear regression modelling.
   <a href="https://www.linkedin.com/in/elliot-macy/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
   <a href="https://elimacy.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
   <a href="https://twitter.com/EliMacy/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="30" width="30" /></a>
- </p>
- 
- <br />
- &emsp;
+</p>
+
+
+<br>
 
 ### :star: Skills:
-
+---
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" align="left" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" alt="jupyter" align="left" width="30" height="30"/>
@@ -40,9 +40,9 @@ Linear regression modelling.
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keras.svg" alt="keras" align="left" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="tensorflow" align="left" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg" alt="pytorch" align="left" width="30" height="30"/>
+</p>
 
-<br />
-&emsp;
+<br>
 
 <!--
 **thisiselliot/thisiselliot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

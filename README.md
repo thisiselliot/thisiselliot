@@ -7,10 +7,10 @@ Formerly a fine dining professional, I recently graduated from Flatiron School's
 :100: [**Helping-Product-Reviews**](https://github.com/thisiselliot/HelpingProductReviews)
 Predict product review helpfulness by applying machine learning methods to lexical, syntactic, structural, and contextual features.
 
-:syringe: [**Coronavirus-Prediction**](https://github.com/thisiselliot/Coronavirus-Prediction)
+:hospital: [**Coronavirus-Prediction**](https://github.com/thisiselliot/Coronavirus-Prediction)
 Time series analysis of coronavirus fatality rate.
 
-:hospital: [**Patient-Readmission-Predictions**](https://github.com/thisiselliot/Patient-Readmission-Predictions)
+:ambulance: [**Patient-Readmission-Predictions**](https://github.com/thisiselliot/Patient-Readmission-Predictions)
 A classification project predicting hospital readmission for diabetes patients.
 
 :house: [**Predicting-Real-Estate-Prices**](https://github.com/thisiselliot/Predicting-Real-Estate-Prices-in-King-County-WA)

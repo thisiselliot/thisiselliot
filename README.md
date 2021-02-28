@@ -6,17 +6,17 @@ Formerly a fine dining professional, I recently graduated from Flatiron School's
 
 ### :telescope: Projects I'm currently working on:
 ---
-[**Helping-Product-Reviews**](https://github.com/thisiselliot/HelpingProductReviews)
-:100: Predict product review helpfulness by applying machine learning methods to lexical, syntactic, structural, and contextual features.
+:100: [**Helping-Product-Reviews**](https://github.com/thisiselliot/HelpingProductReviews)
+Predict product review helpfulness by applying machine learning methods to lexical, syntactic, structural, and contextual features.
 
-[**Coronavirus-Prediction**](https://github.com/thisiselliot/Coronavirus-Prediction)
-:syringe: Time series analysis of coronavirus fatality rate.
+:syringe: [**Coronavirus-Prediction**](https://github.com/thisiselliot/Coronavirus-Prediction)
+Time series analysis of coronavirus fatality rate.
 
-[**Patient-Readmission-Predictions**](https://github.com/thisiselliot/Patient-Readmission-Predictions)
-:hospital: A classification project predicting hospital readmission for diabetes patients.
+:hospital: [**Patient-Readmission-Predictions**](https://github.com/thisiselliot/Patient-Readmission-Predictions)
+A classification project predicting hospital readmission for diabetes patients.
 
-[**Predicting-Real-Estate-Prices**](https://github.com/thisiselliot/Predicting-Real-Estate-Prices-in-King-County-WA)
-:house: Linear regression modelling.
+:house: [**Predicting-Real-Estate-Prices**](https://github.com/thisiselliot/Predicting-Real-Estate-Prices-in-King-County-WA)
+Linear regression modelling.
 
 <br>
 

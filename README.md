@@ -19,9 +19,9 @@ Linear regression modelling.
 
 ## How to get in touch: :mailbox:
 <p>
-  <a href="https://www.linkedin.com/in/elliot-macy/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
-  <a href="https://elimacy.medium.com/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30"></a>
-  <a href="https://twitter.com/EliMacy/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/elliot-macy/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" title="linkedin" height="30" width="30"></a>
+  <a href="https://elimacy.medium.com/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" title="medium" height="30" width="30"></a>
+  <a href="https://twitter.com/EliMacy/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" title="twitter" height="30" width="30"></a>
 </p>
 
 <br>
@@ -29,20 +29,20 @@ Linear regression modelling.
 
 ## I am skilled at: :star:
 <p>
-  <a href="https://www.python.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" height="30" width="30"></a>
-  <a href="https://jupyter.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" alt="jupyter" height="30" width="30"></a>
-  <a href="https://pandas.pydata.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pandas.svg" alt="pandas" height="30" width="30"></a>
-  <a href="https://keras.io/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keras.svg" alt="keras" height="30" width="30"></a>
-  <a href="https://www.tensorflow.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="tensorflow" height="30" width="30"></a>
-  <a href="https://pytorch.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg" alt="pytorch" height="30" width="30"></a>
+  <a href="https://www.python.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" title="python" height="30" width="30"></a>
+  <a href="https://jupyter.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" alt="jupyter" title="jupyter" height="30" width="30"></a>
+  <a href="https://pandas.pydata.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pandas.svg" alt="pandas" title="pandas" height="30" width="30"></a>
+  <a href="https://keras.io/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keras.svg" alt="keras" title="keras" height="30" width="30"></a>
+  <a href="https://www.tensorflow.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="tensorflow" title="tensorflow" height="30" width="30"></a>
+  <a href="https://pytorch.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg" alt="pytorch" title="pytorch" height="30" width="30"></a>
 </p>
 
 <br>
 <br>
 
 ## I am currently learning: :seedling:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg" alt="sqlite" align="left" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" alt="r" align="left" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="tableau" align="left" width="30" height="30"/>
+<p>
+    <a href="https://sqlite.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg" alt="sqlite" title="sqlite" height="30" width="30"></a>
+    <a href="https://www.r-project.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" alt="r" title="r" height="30" width="30"></a>
+    <a href="https://www.tableau.com/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="tableau" title="tableau" height="30" width="30"></a>
 </p>

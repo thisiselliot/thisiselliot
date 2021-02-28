@@ -4,7 +4,7 @@ Formerly a fine dining professional, I recently graduated from Flatiron School's
 
 <br>
 
-### :telescope: Projects I'm currently working on:
+### Projects I'm currently working on: :telescope:
 ---
 :100: [**Helping-Product-Reviews**](https://github.com/thisiselliot/HelpingProductReviews)
 Predict product review helpfulness by applying machine learning methods to lexical, syntactic, structural, and contextual features.
@@ -20,7 +20,7 @@ Linear regression modelling.
 
 <br>
 
-### :mailbox: How to get in touch:
+### How to get in touch: :mailbox:
 ---
 <p>
   <a href="https://www.linkedin.com/in/elliot-macy/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
@@ -33,7 +33,7 @@ Linear regression modelling.
 <br>
 <br>
 
-### :star: Skills:
+### Skills: :star:
 ---
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" align="left" width="30" height="30"/>

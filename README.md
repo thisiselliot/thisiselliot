@@ -1,4 +1,4 @@
-# Hi, I'm Elliot 👋
+# Hi, I am Elliot 👋
 
 Formerly a fine dining professional, I recently graduated from Flatiron School's data science program, where I concentrated on neural networks and natural language processing. I am interested in using deep learning and machine understanding to analyze textual and visual culture.
 

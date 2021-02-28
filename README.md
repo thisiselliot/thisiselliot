@@ -42,7 +42,15 @@ Linear regression modelling.
 </p>
 
 <br>
+<br>
+<br>
 
+## I am current learning: :seedling:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg" alt="sqlite" align="left" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" alt="r" align="left" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="tableau" align="left" width="30" height="30"/>
+</p>
 <!--
 **thisiselliot/thisiselliot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

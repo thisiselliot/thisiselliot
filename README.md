@@ -2,7 +2,6 @@
 
 Formerly a fine dining professional, I recently graduated from Flatiron School's data science program, where I concentrated on neural networks and natural language processing. I am interested in using deep learning and machine understanding to analyze textual and visual culture.
 
-<br>
 
 ## Projects I'm currently working on: :telescope:
 :100: [**Helping-Product-Reviews**](https://github.com/thisiselliot/HelpingProductReviews)
@@ -17,19 +16,6 @@ A classification project predicting hospital readmission for diabetes patients.
 :house: [**Predicting-Real-Estate-Prices**](https://github.com/thisiselliot/Predicting-Real-Estate-Prices-in-King-County-WA)
 Linear regression modelling.
 
-<br>
-
-## How to get in touch: :mailbox:
-<p>
-  <a href="https://www.linkedin.com/in/elliot-macy/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
-  <a href="https://elimacy.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
-  <a href="https://twitter.com/EliMacy/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="30" width="30" /></a>
-</p>
-
-
-<br>
-<br>
-<br>
 
 ## I am skilled at: :star:
 <p align="left">
@@ -50,6 +36,17 @@ Linear regression modelling.
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg" alt="sqlite" align="left" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" alt="r" align="left" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="tableau" align="left" width="30" height="30"/>
+</p>
+
+<br>
+<br>
+<br>
+
+## How to get in touch: :mailbox:
+<p>
+  <a href="https://www.linkedin.com/in/elliot-macy/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+  <a href="https://elimacy.medium.com/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
+  <a href="https://twitter.com/EliMacy/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="30" width="30" /></a>
 </p>
 <!--
 **thisiselliot/thisiselliot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 Formerly a fine dining professional, I recently graduated from Flatiron School's data science program, where I concentrated on neural networks and natural language processing. I am interested in using deep learning and machine understanding to analyze textual and visual culture.
 
 
-## Projects I am currently working on: :triangular_ruler:
+## Projects: :triangular_ruler:
 :100: [**Helping-Product-Reviews**](https://github.com/thisiselliot/HelpingProductReviews)
 Predict product review helpfulness by applying machine learning methods to lexical, syntactic, structural, and contextual features.
 
@@ -17,7 +17,7 @@ A classification project predicting hospital readmission for diabetes patients.
 Linear regression modelling.
 
 
-## How to get in touch: :mailbox:
+## Get in touch: :mailbox:
 <p>
   <a href="https://www.linkedin.com/in/elliot-macy/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" title="linkedin" height="30" width="30"></a>
   <a href="https://elimacy.medium.com/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" title="medium" height="30" width="30"></a>
@@ -27,7 +27,7 @@ Linear regression modelling.
 <br>
 <br>
 
-## I am skilled at: :star:
+## Technical skills: :star:
 <p>
   <a href="https://www.python.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" title="python" height="30" width="30"></a>
   <a href="https://jupyter.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" alt="jupyter" title="jupyter" height="30" width="30"></a>
@@ -40,7 +40,7 @@ Linear regression modelling.
 <br>
 <br>
 
-## Skills I am currently learning: :microscope:
+## Currently learning: :microscope:
 <p>
     <a href="https://sqlite.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg" alt="sqlite" title="sqlite" height="30" width="30"></a>
     <a href="https://www.r-project.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" alt="r" title="r" height="30" width="30"></a>

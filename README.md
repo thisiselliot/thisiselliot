@@ -8,7 +8,7 @@ Formerly a fine dining professional, I recently graduated from Flatiron School's
 Predict product review helpfulness by applying machine learning methods to lexical, syntactic, structural, and contextual features.
 
 :hospital: [**Coronavirus-Prediction**](https://github.com/thisiselliot/Coronavirus-Prediction)
-Time series analysis of coronavirus fatality rate.
+Time series analysis of coronavirus fatality rates.
 
 :ambulance: [**Patient-Readmission-Predictions**](https://github.com/thisiselliot/Patient-Readmission-Predictions)
 A classification project predicting hospital readmission for diabetes patients.

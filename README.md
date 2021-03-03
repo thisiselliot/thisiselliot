@@ -3,7 +3,7 @@
 Formerly a fine dining professional, I recently graduated from Flatiron School's data science program, where I concentrated on neural networks and natural language processing. I am interested in using deep learning and machine understanding to analyze textual and visual culture.
 
 
-## Projects I am currently working on: :telescope:
+## Projects I am currently working on: :triangular_ruler:
 :100: [**Helping-Product-Reviews**](https://github.com/thisiselliot/HelpingProductReviews)
 Predict product review helpfulness by applying machine learning methods to lexical, syntactic, structural, and contextual features.
 
@@ -40,7 +40,7 @@ Linear regression modelling.
 <br>
 <br>
 
-## I am currently learning: :seedling:
+## Skills I am currently learning: :microscope:
 <p>
     <a href="https://sqlite.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg" alt="sqlite" title="sqlite" height="30" width="30"></a>
     <a href="https://www.r-project.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" alt="r" title="r" height="30" width="30"></a>

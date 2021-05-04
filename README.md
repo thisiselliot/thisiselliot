@@ -7,6 +7,9 @@ Formerly a fine dining professional, I recently graduated from Flatiron School's
 :computer: [**Helping-Product-Reviews**](https://github.com/thisiselliot/HelpingProductReviews)
 Predict product review helpfulness by applying machine learning methods to lexical, syntactic, structural, and contextual features.
 
+:cop: [**Open Policing**](https://github.com/thisiselliot/Open-Policing)
+Detect racial bias in police vehicular stops and searches.
+
 :hospital: [**Coronavirus-Prediction**](https://github.com/thisiselliot/Coronavirus-Prediction)
 Time series analysis of coronavirus fatality rates.
 

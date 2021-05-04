@@ -32,6 +32,7 @@ Linear regression modelling.
 
 ## Technical skills: :star:
 <p>
+  <a href="https://sqlite.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/sqlite.png" alt="sqlite" title="sqlite" height="30" width="30"></a>
   <a href="https://www.python.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/python.png" title="python" height="30" width="30"></a>
   <a href="https://jupyter.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/jupyter.png" alt="jupyter" title="jupyter" height="30" width="30"></a>
   <a href="https://pandas.pydata.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/pandas.png" alt="pandas" title="pandas" height="30" width="30"</a>
@@ -45,7 +46,6 @@ Linear regression modelling.
 
 ## Currently learning: :microscope:
 <p>
-    <a href="https://sqlite.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/sqlite.png" alt="sqlite" title="sqlite" height="30" width="30"></a>
     <a href="https://www.r-project.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/r.png" alt="r" title="r" height="30" width="30"></a>
     <a href="https://www.tableau.com/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/tableau.png" alt="tableau" title="tableau" height="30" width="30"></a>
 </p>

@@ -4,7 +4,7 @@ Formerly a fine dining professional, I recently graduated from Flatiron School's
 
 
 ## Projects: :triangular_ruler:
-:100: [**Helping-Product-Reviews**](https://github.com/thisiselliot/HelpingProductReviews)
+:black_nib: [**Helping-Product-Reviews**](https://github.com/thisiselliot/HelpingProductReviews)
 Predict product review helpfulness by applying machine learning methods to lexical, syntactic, structural, and contextual features.
 
 :hospital: [**Coronavirus-Prediction**](https://github.com/thisiselliot/Coronavirus-Prediction)

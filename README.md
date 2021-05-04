@@ -22,9 +22,9 @@ Linear regression modelling.
 
 ## Get in touch: :mailbox:
 <p>
-  <a href="https://www.linkedin.com/in/elliot-macy/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" title="linkedin" height="30" width="30"></a>
-  <a href="https://elimacy.medium.com/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" title="medium" height="30" width="30"></a>
-  <a href="https://twitter.com/EliMacy/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" title="twitter" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/elliot-macy/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/linkedin.png" alt="linkedin" title="linkedin" height="30" width="30"></a>
+  <a href="https://elimacy.medium.com/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/medium.png" alt="medium" title="medium" height="30" width="30"></a>
+  <a href="https://twitter.com/EliMacy/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/twitter.png" alt="twitter" title="twitter" height="30" width="30"></a>
 </p>
 
 <br>
@@ -32,12 +32,12 @@ Linear regression modelling.
 
 ## Technical skills: :star:
 <p>
-  <a href="https://www.python.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" title="python" height="30" width="30"></a>
-  <a href="https://jupyter.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" alt="jupyter" title="jupyter" height="30" width="30"></a>
-  <a href="https://pandas.pydata.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pandas.svg" alt="pandas" title="pandas" height="30" width="30"></a>
-  <a href="https://keras.io/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keras.svg" alt="keras" title="keras" height="30" width="30"></a>
-  <a href="https://www.tensorflow.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="tensorflow" title="tensorflow" height="30" width="30"></a>
-  <a href="https://pytorch.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg" alt="pytorch" title="pytorch" height="30" width="30"></a>
+  <a href="https://www.python.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/python.png" title="python" height="30" width="30"></a>
+  <a href="https://jupyter.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/jupyter.png" alt="jupyter" title="jupyter" height="30" width="30"></a>
+  <a href="https://pandas.pydata.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/pandas.png" alt="pandas" title="pandas" height="30" width="30"</a>
+  <a href="https://keras.io/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/keras.png" alt="keras" title="keras" height="30" width="30"></a>
+  <a href="https://www.tensorflow.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/tensorflow.png" alt="tensorflow" title="tensorflow" height="30" width="30"></a>
+  <a href="https://pytorch.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/pytorch.png" alt="pytorch" title="pytorch" height="30" width="30"></a>
 </p>
 
 <br>
@@ -45,7 +45,7 @@ Linear regression modelling.
 
 ## Currently learning: :microscope:
 <p>
-    <a href="https://sqlite.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg" alt="sqlite" title="sqlite" height="30" width="30"></a>
-    <a href="https://www.r-project.org/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/r.svg" alt="r" title="r" height="30" width="30"></a>
-    <a href="https://www.tableau.com/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg" alt="tableau" title="tableau" height="30" width="30"></a>
+    <a href="https://sqlite.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/sqlite.png" alt="sqlite" title="sqlite" height="30" width="30"></a>
+    <a href="https://www.r-project.org/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/r.png" alt="r" title="r" height="30" width="30"></a>
+    <a href="https://www.tableau.com/"><img align="left" src="https://github.com/thisiselliot/icons/blob/main/tableau.png" alt="tableau" title="tableau" height="30" width="30"></a>
 </p>

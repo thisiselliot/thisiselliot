@@ -4,7 +4,7 @@ I am an early-career data scientist passionate about neural networks and natural
 
 
 ## Projects: :triangular_ruler:
-:computer: [**Helping-Product-Reviews**](https://github.com/thisiselliot/HelpingProductReviews)
+:shopping_cart: [**Helping-Product-Reviews**](https://github.com/thisiselliot/HelpingProductReviews)
 Predict product review helpfulness by applying machine learning methods to lexical, syntactic, structural, and contextual features.
 
 :hospital: [**Coronavirus-Prediction**](https://github.com/thisiselliot/Coronavirus-Prediction)

@@ -1,6 +1,6 @@
 # Hi, I am Elliot 👋
 
-Formerly a fine dining professional, I recently graduated from Flatiron School's data science program, where I concentrated on neural networks and natural language processing. I am interested in using deep learning and machine understanding to analyze textual and visual culture.
+I am an early-career data scientist passionate about neural networks and natural language processing. I graduated from Flatiron School’s data science bootcamp, taught in Python and SQL, where I collaborated on several machine learning projects and worked independently on an NLP capstone project.
 
 
 ## Projects: :triangular_ruler:
